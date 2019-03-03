@@ -1,0 +1,7 @@
+C:\Users\Nevena\source\repos\Homework_class02\Homework_CS_class2\obj\Debug\Homework_CS_class2_Ex6.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\source\repos\Homework_class02\Homework_CS_class2\obj\Debug\Homework_CS_class2.exe
+C:\Users\Nevena\source\repos\Homework_class02\Homework_CS_class2\obj\Debug\Homework_CS_class2.pdb
+C:\Users\Nevena\source\repos\Homework_class02\Homework_CS_class2\bin\Debug\Homework_CS_class2.exe.config
+C:\Users\Nevena\source\repos\Homework_class02\Homework_CS_class2\bin\Debug\Homework_CS_class2.exe
+C:\Users\Nevena\source\repos\Homework_class02\Homework_CS_class2\bin\Debug\Homework_CS_class2.pdb
+C:\Users\Nevena\source\repos\Homework_class02\Homework_CS_class2\obj\Debug\Homework_CS_class2_Ex6.csprojAssemblyReference.cache
