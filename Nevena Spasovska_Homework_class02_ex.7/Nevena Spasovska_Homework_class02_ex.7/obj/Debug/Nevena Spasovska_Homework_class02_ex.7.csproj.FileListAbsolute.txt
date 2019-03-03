@@ -1,0 +1,7 @@
+C:\Users\Nevena\source\repos\Nevena Spasovska_Homework_class02_ex.7\Nevena Spasovska_Homework_class02_ex.7\bin\Debug\Nevena Spasovska_Homework_class02_ex.7.exe.config
+C:\Users\Nevena\source\repos\Nevena Spasovska_Homework_class02_ex.7\Nevena Spasovska_Homework_class02_ex.7\bin\Debug\Nevena Spasovska_Homework_class02_ex.7.exe
+C:\Users\Nevena\source\repos\Nevena Spasovska_Homework_class02_ex.7\Nevena Spasovska_Homework_class02_ex.7\bin\Debug\Nevena Spasovska_Homework_class02_ex.7.pdb
+C:\Users\Nevena\source\repos\Nevena Spasovska_Homework_class02_ex.7\Nevena Spasovska_Homework_class02_ex.7\obj\Debug\Nevena Spasovska_Homework_class02_ex.7.csprojAssemblyReference.cache
+C:\Users\Nevena\source\repos\Nevena Spasovska_Homework_class02_ex.7\Nevena Spasovska_Homework_class02_ex.7\obj\Debug\Nevena Spasovska_Homework_class02_ex.7.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\source\repos\Nevena Spasovska_Homework_class02_ex.7\Nevena Spasovska_Homework_class02_ex.7\obj\Debug\Nevena Spasovska_Homework_class02_ex.7.exe
+C:\Users\Nevena\source\repos\Nevena Spasovska_Homework_class02_ex.7\Nevena Spasovska_Homework_class02_ex.7\obj\Debug\Nevena Spasovska_Homework_class02_ex.7.pdb
